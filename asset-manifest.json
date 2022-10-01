@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/codewitHK1/WebStore/static/css/main.91f2bcf7.css",
+    "main.js": "/codewitHK1/WebStore/static/js/main.2bcb2dc1.js",
+    "static/media/webStore.jpg": "/codewitHK1/WebStore/static/media/webStore.95604d254ea6c9cfc137.jpg",
+    "index.html": "/codewitHK1/WebStore/index.html",
+    "main.91f2bcf7.css.map": "/codewitHK1/WebStore/static/css/main.91f2bcf7.css.map",
+    "main.2bcb2dc1.js.map": "/codewitHK1/WebStore/static/js/main.2bcb2dc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91f2bcf7.css",
+    "static/js/main.2bcb2dc1.js"
+  ]
+}
